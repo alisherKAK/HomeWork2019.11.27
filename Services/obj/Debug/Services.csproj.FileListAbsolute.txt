@@ -1,0 +1,8 @@
+S:\VisualStudio\C#\HomeWork2019.11.27\Services\bin\Debug\Services.dll
+S:\VisualStudio\C#\HomeWork2019.11.27\Services\bin\Debug\Services.pdb
+S:\VisualStudio\C#\HomeWork2019.11.27\Services\bin\Debug\Models.dll
+S:\VisualStudio\C#\HomeWork2019.11.27\Services\bin\Debug\Models.pdb
+S:\VisualStudio\C#\HomeWork2019.11.27\Services\obj\Debug\Services.csprojAssemblyReference.cache
+S:\VisualStudio\C#\HomeWork2019.11.27\Services\obj\Debug\Services.csproj.CopyComplete
+S:\VisualStudio\C#\HomeWork2019.11.27\Services\obj\Debug\Services.dll
+S:\VisualStudio\C#\HomeWork2019.11.27\Services\obj\Debug\Services.pdb

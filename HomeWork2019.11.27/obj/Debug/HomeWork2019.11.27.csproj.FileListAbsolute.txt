@@ -1,0 +1,11 @@
+S:\VisualStudio\C#\HomeWork2019.11.27\HomeWork2019.11.27\bin\Debug\HomeWork2019.11.27.exe.config
+S:\VisualStudio\C#\HomeWork2019.11.27\HomeWork2019.11.27\bin\Debug\HomeWork2019.11.27.exe
+S:\VisualStudio\C#\HomeWork2019.11.27\HomeWork2019.11.27\bin\Debug\HomeWork2019.11.27.pdb
+S:\VisualStudio\C#\HomeWork2019.11.27\HomeWork2019.11.27\bin\Debug\Models.dll
+S:\VisualStudio\C#\HomeWork2019.11.27\HomeWork2019.11.27\bin\Debug\Services.dll
+S:\VisualStudio\C#\HomeWork2019.11.27\HomeWork2019.11.27\bin\Debug\Models.pdb
+S:\VisualStudio\C#\HomeWork2019.11.27\HomeWork2019.11.27\bin\Debug\Services.pdb
+S:\VisualStudio\C#\HomeWork2019.11.27\HomeWork2019.11.27\obj\Debug\HomeWork2019.11.27.csprojAssemblyReference.cache
+S:\VisualStudio\C#\HomeWork2019.11.27\HomeWork2019.11.27\obj\Debug\HomeWork2019.11.27.csproj.CopyComplete
+S:\VisualStudio\C#\HomeWork2019.11.27\HomeWork2019.11.27\obj\Debug\HomeWork2019.11.27.exe
+S:\VisualStudio\C#\HomeWork2019.11.27\HomeWork2019.11.27\obj\Debug\HomeWork2019.11.27.pdb

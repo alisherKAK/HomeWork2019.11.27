@@ -1,0 +1,5 @@
+S:\VisualStudio\C#\HomeWork2019.11.27\Models\bin\Debug\Models.dll
+S:\VisualStudio\C#\HomeWork2019.11.27\Models\bin\Debug\Models.pdb
+S:\VisualStudio\C#\HomeWork2019.11.27\Models\obj\Debug\Models.csprojAssemblyReference.cache
+S:\VisualStudio\C#\HomeWork2019.11.27\Models\obj\Debug\Models.dll
+S:\VisualStudio\C#\HomeWork2019.11.27\Models\obj\Debug\Models.pdb
